@@ -30,7 +30,7 @@ var Config = {
      * @property URL_BASE
      * @type String
      */
-    URL_BASE: '',                       // page-relative base path
+    URL_BASE: '/FP/web/',                       // page-relative base path
 //  URL_BASE: '/',                      // root-relative base path
 //  URL_BASE: '/foo/bar/',              // root-directory-relative base path
 //  URL_BASE: '//www.example.com/foo/', // absolute base path
